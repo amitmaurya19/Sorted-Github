@@ -1,5 +1,5 @@
 **Project Overview**
-This project is a** Dynamic GitHub Projects Viewer** that allows users to search for GitHub repositories based on specific topics.
+This project is a **Dynamic GitHub Projects Viewer** that allows users to search for GitHub repositories based on specific topics.
 It fetches the projects using the GitHub API and displays the results on the webpage, including details such as the repository name, description, and the number of pull requests.
 
 **Project Files** :-
